@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+body{
+	background-image:linear-gradient(to right,green,yellow);
+}
+p{
+	text-align:justify;
+}
+li{
+	line-height:2;
+	text-align:justify;
+}
